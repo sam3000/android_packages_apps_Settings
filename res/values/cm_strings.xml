@@ -423,4 +423,11 @@
     <string name="crypt_keeper_choose_your_password_header">Set encryption password</string>
     <string name="crypt_keeper_replace_password_title">Replace encryption password</string>
     <string name="crypt_keeper_replace_password_summary">Remove the separate encryption password</string>
+
+    <!-- Data restrictions -->
+    <string name="restrict_app_wlan_title">Disable app wifi usage</string>
+    <string name="restrict_app_wlan_summary">Prevent app from using wifi data connection</string>
+    <string name="restrict_app_cellular_title">Disable app cellular usage</string>
+    <string name="restrict_app_cellular_summary">Prevent app from using cellular data connection</string>
+    <string name="privacy_guard_internet_category">Internet</string>
 </resources>
